@@ -12,8 +12,7 @@
 
                 <Application
                   connector="sailpoint.connector.OpenConnectorAdapter"
-                  featuresString="PROVISIONING, SYNC_PROVISIONING, SEARCH, ENABLE, UNSTRUCTURED_TARGETS, DISCOVER_SCHEMA, ACCOUNT_ONLY_REQUEST"
-                  icon="/identityiq/images/icons/dashboard_edit_16.png"
+                  featuresString="PROVISIONING, SYNC_PROVISIONING, SEARCH, ENABLE, UNSTRUCTURED_TARGETS, DISCOVER_SCHEMA, ACCOUNT_ONLY_REQUEST"          icon="internet"
                   name="CustomDBConnector"
                   profileClass=""
                   type="CustomDBConnector">
