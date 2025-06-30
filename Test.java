@@ -6,7 +6,7 @@ class Hello
 	public static void main(String[] args) {
         try {
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-            System.out.print("Enter your name: ");
+            System.out.print("Sumanth B: ");
             String name = reader.readLine();
             System.out.println("Hello, " + name + "!");
         } catch (IOException e) {
