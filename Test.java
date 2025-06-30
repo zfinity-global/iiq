@@ -2,6 +2,7 @@ import java.io.*
 
 class Hello
 {
+
 	public static void main(String[] args) {
         try {
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
@@ -12,4 +13,6 @@ class Hello
             System.err.println("An error occurred while reading input: " + e.getMessage());
         }
     }
+	System.out.println("welcome to sialpoint indentity iq");
+
 }
