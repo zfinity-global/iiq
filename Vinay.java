@@ -14,7 +14,7 @@ public class Geeks {
 
         // Reading data using readLine
         String s = r.readLine();
-
+        System.out.println("sai");
         // Printing the read line
         System.out.println(s);
     }
