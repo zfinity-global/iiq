@@ -12,7 +12,7 @@
 
                 <Application
                   connector="sailpoint.connector.OpenConnectorAdapter"
-                  featuresString="PROVISIONING, SYNC_PROVISIONING, SEARCH, ENABLE, UNSTRUCTURED_TARGETS, DISCOVER_SCHEMA" icon="internet"
+                  featuresString="PROVISIONING, SEARCH, ENABLE, UNSTRUCTURED_TARGETS, DISCOVER_SCHEMA" icon="internet"
                   name="CustomDBConnector"
                   profileClass=""
                   type="CustomDBConnector">
